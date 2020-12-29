@@ -21,7 +21,6 @@ public class swapTwoNumbers {
 		y=temp;
 		
 		System.out.println("After Swapping \n x:"+x+"\ny:"+y);
-
 	}
 
 }
